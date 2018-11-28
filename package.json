@@ -1,0 +1,19 @@
+{
+  "name": "heptaboy",
+  "version": "0.0.0",
+  "private": true,
+  "author": "leonardo.bites@hepta.com.br",
+  "description": "Heptaboy é um bot Top",
+  "dependencies": {
+    "hubot": "3.0.1",
+    "hubot-diagnostics": "^1.0.0",
+    "hubot-help": "^1.0.1",
+    "hubot-redis-brain": "^1.0.0",
+    "hubot-rules": "^1.0.0",
+    "hubot-slack": "^4.5.5",
+    "hubot-telegram": "^0.1.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
